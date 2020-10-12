@@ -23,6 +23,5 @@
     <Compile Include="Scripts\CameraController.cs" />
     <Compile Include="Scripts\DataController.cs" />
     <Compile Include="Scripts\LatticeGenerator.cs" />
-    <Compile Include="Scripts\LightDot.cs" />
   </ItemGroup>
 </Project>
